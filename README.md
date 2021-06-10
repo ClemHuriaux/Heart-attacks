@@ -16,6 +16,13 @@ This project is initiated by Udacity on the data scientist nanodegree. I have ch
  
  I answered those 3 questions in the same file. You can open it with Jupyter Notebook.
  
+ ## Description of the repository
+ You will find in this repository:
+  - The README your are reading right now (thanks !)
+  - The jupyter notebook file containing all the code
+  - The dataset in csv format I used for the analysis. The dataset looks like this:
+ 
+ 
  ## Results
  With this dataset, I found that:
   1. The cholesterol is not a key indicator of heart attacks
