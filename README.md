@@ -19,9 +19,16 @@ This project is initiated by Udacity on the data scientist nanodegree. I have ch
  ## Description of the repository
  You will find in this repository:
   - The README your are reading right now (thanks !)
+  - The images folder to store the image I get (and the ones you can find here)
   - The jupyter notebook file containing all the code
   - The dataset in csv format I used for the analysis. The dataset looks like this:
+  
+ ![Image of the dataframe](https://github.com/ClemHuriaux/Heart-attacks/blob/main/images/df.PNG)
  
+ The dataset try to diverse entry such as the following picture showing the age density:
+ ![Image of the age density](https://github.com/ClemHuriaux/Heart-attacks/blob/main/images/density.PNG)
+ 
+ It still is a small dataset so it doesn't have many entry. But is enough to have fun with it !
  
  ## Results
  With this dataset, I found that:
